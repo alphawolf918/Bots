@@ -1,0 +1,1 @@
+server=localhost;user id=admin;persistsecurityinfo=True;database=BotDB;port=3306
